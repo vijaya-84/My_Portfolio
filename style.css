@@ -1,0 +1,94 @@
+/* body{
+    text-align: center;
+   
+
+} */
+
+  @import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@500&family=REM&family=Roboto:wght@500&display=swap');
+
+header
+{
+    text-align: center;
+    background-color: blueviolet;
+    margin-top: -10px;
+    height: 170px;
+    padding: 48px;
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'REM', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    
+}
+
+
+
+ul li{
+    
+    display: inline;
+    
+    padding-left: 50px;
+    
+}
+ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+ img{
+    
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+   margin-left: 65%;
+  margin-top: 5%;
+  
+    
+}
+ .hi{
+    font-size: 3rem;
+    margin-top: -20%;
+    margin-left: 20%;
+    font-family: 'Edu SA Beginner', cursive;
+font-family: 'REM', sans-serif;
+font-family: 'Roboto', sans-serif;
+    /* transition: 0.5s;
+    transform: translateY(-100%); */
+} 
+.name{
+    font-size: 3rem;
+    margin-top: 0%;
+    margin-left: 10%;
+    font-family: 'Edu SA Beginner', cursive;
+font-family: 'REM', sans-serif;
+font-family: 'Roboto', sans-serif;
+} 
+#Portfolio
+{
+    background-color:burlywood;
+}
+footer{
+    background-color: darkgrey;
+    text-align: center;
+}
+.quote{
+    font-size: 1.5rem;
+    margin-top: -5%;
+    margin-left: 10%;
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'REM', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+#bio,#Portfolio,#skills,#Contact{
+    text-align: center;
+    font-family: 'Edu SA Beginner', cursive;
+font-family: 'REM', sans-serif;
+font-family: 'Roboto', sans-serif;
+transition-delay: 0.10s;
+
+}
+#bio p,#Portfolio p,#skills p{
+    font-size: 1.2rem;
+}
+
